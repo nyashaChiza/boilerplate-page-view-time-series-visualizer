@@ -1,2 +1,12 @@
-seaborn==0.9.0
-pandas==1.5.3
+contourpy==1.1.1
+cycler==0.12.1
+fonttools==4.53.1
+kiwisolver==1.4.5
+matplotlib==3.7.5
+numpy==1.24.4
+pandas==2.0.3
+pillow==10.4.0
+pyparsing==3.1.2
+scipy==1.10.1
+seaborn==0.13.2
+tzdata==2024.1
